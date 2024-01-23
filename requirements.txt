@@ -1,0 +1,17 @@
+numpy==1.26.3
+torch==2.0.1
+transformers==4.36.2
+accelerate==0.26.0
+sentence-transformers==2.2.2
+lxml==4.9.2
+defusedxml==0.7.1
+beautifulsoup4==4.12.2
+gradio==4.14.0
+psycopg[binary]==3.1.17
+Scrapy==2.11.0
+humanize==3.10.0
+spacy==3.7.2
+pygments==2.15.1
+pdfminer-six==20231228
+openpyxl==3.0.10
+ftfy==6.1.3

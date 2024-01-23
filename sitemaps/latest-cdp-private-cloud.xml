@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/sitemap.xsl" type="text/xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/benefits.html</loc>
+		<lastmod>2023-08-08</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/index.html</loc>
+		<lastmod>2023-11-20</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/install.html</loc>
+		<lastmod>2023-09-13</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/links-pvc-base-getting-started_svg.html</loc>
+		<lastmod>2023-11-15</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-notes.html</loc>
+		<lastmod>2023-11-20</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202006-71.html</loc>
+		<lastmod>2023-09-08</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202008-713.html</loc>
+		<lastmod>2023-09-07</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202010-714.html</loc>
+		<lastmod>2023-09-07</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202012-715.html</loc>
+		<lastmod>2023-09-07</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202103-716.html</loc>
+		<lastmod>2023-09-07</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202108-717.html</loc>
+		<lastmod>2023-09-07</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202208-718.html</loc>
+		<lastmod>2023-10-08</lastmod>
+	</url>
+	<url>
+		<loc>https://docs.cloudera.com/cdp-private-cloud/latest/release-summaries/topics/announcement-202309-719.html</loc>
+		<lastmod>2023-12-19</lastmod>
+	</url>
+</urlset>
